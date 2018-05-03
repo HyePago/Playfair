@@ -8,3 +8,13 @@ D:\Programming\정보보호\Playfair\Playfair\obj\Debug\Playfair.csproj.Generate
 D:\Programming\정보보호\Playfair\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
 D:\Programming\정보보호\Playfair\Playfair\obj\Debug\Playfair.exe
 D:\Programming\정보보호\Playfair\Playfair\obj\Debug\Playfair.pdb
+D:\Programming\security\Playfair\Playfair\bin\Debug\Playfair.exe.config
+D:\Programming\security\Playfair\Playfair\bin\Debug\Playfair.exe
+D:\Programming\security\Playfair\Playfair\bin\Debug\Playfair.pdb
+D:\Programming\security\Playfair\Playfair\obj\Debug\Playfair.csprojResolveAssemblyReference.cache
+D:\Programming\security\Playfair\Playfair\obj\Debug\Playfair.Form1.resources
+D:\Programming\security\Playfair\Playfair\obj\Debug\Playfair.Properties.Resources.resources
+D:\Programming\security\Playfair\Playfair\obj\Debug\Playfair.csproj.GenerateResource.cache
+D:\Programming\security\Playfair\Playfair\obj\Debug\Playfair.csproj.CoreCompileInputs.cache
+D:\Programming\security\Playfair\Playfair\obj\Debug\Playfair.exe
+D:\Programming\security\Playfair\Playfair\obj\Debug\Playfair.pdb

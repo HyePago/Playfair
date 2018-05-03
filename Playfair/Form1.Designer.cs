@@ -118,6 +118,7 @@
             this.Decryption.TabIndex = 9;
             this.Decryption.Text = "복호화";
             this.Decryption.UseVisualStyleBackColor = true;
+            this.Decryption.Click += new System.EventHandler(this.Decryption_Click);
             // 
             // DecryptionText
             // 
@@ -125,7 +126,6 @@
             this.DecryptionText.Name = "DecryptionText";
             this.DecryptionText.Size = new System.Drawing.Size(398, 21);
             this.DecryptionText.TabIndex = 11;
-            this.DecryptionText.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
             // 
             // label4
             // 
@@ -154,7 +154,6 @@
             this.Controls.Add(this.keyText);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
